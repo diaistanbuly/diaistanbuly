@@ -1,8 +1,12 @@
 ## Technologies
 
-- ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) Go Programming Language
+## Technologies
+
+- ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Go Gopher](https://img.shields.io/badge/-Go%20Gopher-00ADD8?style=flat-square&logo=go&logoColor=white) Go Programming Language
 - ![C](https://img.shields.io/badge/-C-A8B400?style=flat-square&logo=c&logoColor=white) C Programming Language
 - ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) Bash
+- ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white) Linux
+
 
 
 <!--
