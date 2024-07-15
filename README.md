@@ -1,9 +1,12 @@
 ## Technologies
 
-![Go](https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/go.svg)
-![C](https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/c.svg)
-![Bash](https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gnubash.svg)
-![Linux](https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linux.svg)
+## Technologies
+
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/go.svg" alt="Go" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/c.svg" alt="C" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gnubash.svg" alt="Bash" width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linux.svg" alt="Linux" width="30" height="30"/>
+
 
 
 
