@@ -1,6 +1,7 @@
 ## Technologies
 
 ## Technologies
+## Technologies
 
 - ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) Go Programming Language
 - ![C](https://img.shields.io/badge/-C-A8B400?style=flat-square&logo=c&logoColor=white) C Programming Language
