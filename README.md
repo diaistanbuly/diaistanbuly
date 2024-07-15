@@ -1,11 +1,9 @@
-### Languages and Tools
+## Technologies
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+- ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) Go Programming Language
+- ![C](https://img.shields.io/badge/-C-A8B400?style=flat-square&logo=c&logoColor=white) C Programming Language
+- ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) Bash
+
 
 <!--
 **diaistanbuly/diaistanbuly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
