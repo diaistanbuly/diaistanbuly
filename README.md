@@ -1,12 +1,10 @@
 ## Technologies
 
-## Technologies
-## Technologies
+![Go](https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/go.svg)
+![C](https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/c.svg)
+![Bash](https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gnubash.svg)
+![Linux](https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linux.svg)
 
-- ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) Go Programming Language
-- ![C](https://img.shields.io/badge/-C-A8B400?style=flat-square&logo=c&logoColor=white) C Programming Language
-- ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) Bash
-- ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=white) Linux
 
 
 
